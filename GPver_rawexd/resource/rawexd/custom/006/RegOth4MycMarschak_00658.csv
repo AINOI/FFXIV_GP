@@ -16,7 +16,7 @@ int32,str,str
 11,TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_026,如此一來第四軍團既補充了戰力，也阻止了我們的反攻。<hex:02100103>如果這都是那個梅內紐斯的計劃的話，<hex:02100103>那這個策士是何等老謀深算可想而知。
 12,TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_027,不過值得高興的是，<hex:02100103>達爾馬斯卡起義軍的援軍已經到了。<hex:02100103>東方聯盟也提供了更多的援助。
 13,TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_028,總而言之，必須要想辦法對付鬪神天佑女王才行。<hex:02100103>現在只能先重整態勢，等待反攻的機會了。<hex:02100103>也請解放者閣下暫時休息一下吧。
-14,TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_029,話說回來，你有什麼想要了解的事情嗎？
+14,TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_029,話說回來，你有什麼想要瞭解的事情嗎？
 15,TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_030,解放者閣下，南方博茲雅戰線的局勢已陷入膠著狀態。<hex:02100103>我們忌憚鬪神天佑女王，可第四軍團也一直沒什麼動靜……<hex:02100103>不過在他們的援軍到來之前，必須要打破僵局才行。
 16,TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_031,白沙恩大人說想和你商量一下今後的對策，<hex:02100103>請你去和我的恩師談談吧。
 17,TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_032,有什麼想要確認的事情嗎？
@@ -33,7 +33,7 @@ int32,str,str
 28,TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_060,解放者閣下也請務必和我們一起前往最前線的弗爾德尼斯前哨。<hex:02100103>碼頭的謝羅斯會為你帶路。
 29,TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_065,來自東方聯盟的援軍個個都是強兵猛將，<hex:02100103>到了之後二話不說便前往戰場了，真是讓人心裡有底啊。<hex:02100103>為了不辜負他們的好意，我們無論如何也要獲勝才行！
 30,TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_066,有什麼想要確認的事情嗎？
-31,TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_070,莉莉婭閣下修復斷裂的地脈……<hex:02100103>不，應該說是引導殘留能量吧，似乎進行得很順利。<hex:02100103>這也是多虧了解放者閣下的幫助，真是感激不盡。
+31,TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_070,莉莉婭閣下修復斷裂的地脈……<hex:02100103>不，應該說是引導殘留能量吧，似乎進行得很順利。<hex:02100103>這也是多虧瞭解放者閣下的幫助，真是感激不盡。
 32,TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_071,有什麼想要確認的事情嗎？
 33,TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_075,梅內紐斯的目的果然是古代亞拉戈遺物。<hex:02100103>密探發回的報告稱他們從遺跡中挖掘出的遺物有如惡魔一般。<hex:02100103>雖然尚不清楚那究竟是什麼，但肯定十分危險。
 34,TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_080,解放者閣下，終於到達決戰時刻了！<hex:02100103>我們將背水一戰，拚死一搏，<hex:02100103>為那些死去的同伴奪得最終的勝利！
@@ -41,7 +41,7 @@ int32,str,str
 36,TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_086,就這樣繼續幫我們建設新生博茲雅怎麼樣？<hex:02100103>……不，我是開玩笑的，請別往心裡去。
 37,TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_087,解放者閣下，這份恩情我們永遠都不會忘記。<hex:02100103>如果你遇到了什麼困難，請一定要告訴我們，<hex:02100103>屆時就該輪到我們幫助你了！
 38,TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_088,有什麼想要確認的事情嗎？
-39,TEXT_REGOTH4MYCMARSCHAK_00658_Q20_000_000,想了解什麼？
+39,TEXT_REGOTH4MYCMARSCHAK_00658_Q20_000_000,想瞭解什麼？
 40,TEXT_REGOTH4MYCMARSCHAK_00658_A20_000_000,關於加雷馬帝國第四軍團
 41,TEXT_REGOTH4MYCMARSCHAK_00658_A20_000_001,關於諾亞·範·伽布拉斯
 42,TEXT_REGOTH4MYCMARSCHAK_00658_A20_000_002,關於帝國湖岸堡
@@ -49,7 +49,7 @@ int32,str,str
 44,TEXT_REGOTH4MYCMARSCHAK_00658_A20_000_003,關於馬爾夏克
 45,TEXT_REGOTH4MYCMARSCHAK_00658_A20_000_004,關於米希亞
 46,TEXT_REGOTH4MYCMARSCHAK_00658_A20_000_0010,取消
-47,TEXT_REGOTH4MYCMARSCHAK_00658_Q30_000_000,想了解什麼？
+47,TEXT_REGOTH4MYCMARSCHAK_00658_Q30_000_000,想瞭解什麼？
 48,TEXT_REGOTH4MYCMARSCHAK_00658_A30_000_001,關於旗艦達爾里阿達號
 49,TEXT_REGOTH4MYCMARSCHAK_00658_A30_000_002,關於魔導騎兵大隊和魔導僧兵大隊
 50,TEXT_REGOTH4MYCMARSCHAK_00658_A30_000_003,關於她
@@ -100,8 +100,8 @@ int32,str,str
 95,TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_456,無論米希亞是作為密探被安插在我軍之中的，<hex:02100103>還是被帝國收買，決定投奔帝國的，<hex:02100103>肯定都是梅內紐斯的計策。
 96,TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_457,宣布要在南方行省築建新的王國樂土的伽布拉斯，<hex:02100103>至今仍在對達爾馬斯卡和博茲雅的人民進行大幅度徵兵，<hex:02100103>而他的衡量標準只有能力和忠心。
 97,TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_458,看來我們所有人都必須要再次謹記，<hex:02100103>我們的敵人非常強大……
-98,TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_500,我在白沙恩大人的領導下擔任聯絡員。<hex:02100103>雖然資歷尚淺，但為了解放博茲雅，<hex:02100103>我願奉獻出我的生命，以堅韌不拔的精神奮鬥下去！
-99,TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_501,你想了解我的過去？<hex:02100103>我也在博茲雅堡壘蒸發事件中失去了父母和兄弟……<hex:02100103>當時的我還是一名帝國兵，因為駐紮外地而倖免於難。
+98,TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_500,我在白沙恩大人的領導下擔任聯絡員。<hex:02100103>雖然資歷尚淺，但為瞭解放博茲雅，<hex:02100103>我願奉獻出我的生命，以堅韌不拔的精神奮鬥下去！
+99,TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_501,你想瞭解我的過去？<hex:02100103>我也在博茲雅堡壘蒸發事件中失去了父母和兄弟……<hex:02100103>當時的我還是一名帝國兵，因為駐紮外地而倖免於難。
 100,TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_502,雖然在博茲雅有人宣稱這是一場由帝國進行的虐殺，<hex:02100103>不過實際上加雷馬族也出現了大量的死者，其中也有我的友人。<hex:02100103>這起事件對於帝國來說也是一場出乎意料的事故才對。
 101,TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_503,我生來就是行省市民，從小接受帝國的教育，<hex:02100103>可能正因如此才無法從心底憎恨帝國吧。<hex:02100103>我深知帝國是敵人，但這代表每個帝國人都是嗎？
 102,TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_504,抱歉，剛才我說的話……<hex:02100103>請你對白沙恩大人以及其他抵抗組織成員保密。<hex:02100103>我不想被人在背後說是懦夫……

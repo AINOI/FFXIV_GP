@@ -5,8 +5,8 @@ int32,str,str
 0,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_000,嗯，這些水晶……嗯？<hex:02100103>你找我有什麼事嗎？
 1,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_001,哎呀，今天過來有什麼事嗎？<hex:02100103>不管是以召喚師身份也好，還是以冒險者身份也好……<hex:02100103>我都歡迎你。
 2,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_002,有你加入新的水晶塔調查計劃，<hex:02100103>我也覺得更有把握了。<hex:02100103>有什麼問題儘管問我就可以。
-3,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_003,我在你帶回的水晶塔情報後加了批註，<hex:02100103>整理成了一份調查記錄。<hex:02100103>……你有什麼想要了解的嗎？
-4,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_004,我把你們收集到的情報做了整理，<hex:02100103>追加到水晶塔調查記錄裡去了。<hex:02100103>……你有什麼想要了解的嗎？
+3,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_003,我在你帶回的水晶塔情報後加了批註，<hex:02100103>整理成了一份調查記錄。<hex:02100103>……你有什麼想要瞭解的嗎？
+4,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_004,我把你們收集到的情報做了整理，<hex:02100103>追加到水晶塔調查記錄裡去了。<hex:02100103>……你有什麼想要瞭解的嗎？
 5,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_005,呀，近況如何？<hex:02100103>我將諾亞的歷程以調查記錄的形式進行了整理。<hex:02100103>如果你想回顧至今走過的道路，我很樂意幫忙。
 6,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_006,呀！塔塔露小姐已經跟我說了尋找那個裝置的事。<hex:02100103>雖然我們暫時還沒有什麼線索，不過你放心吧，<hex:02100103>我一定會和拂曉的冒險者們一起努力將它找出來的！
 7,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_010_006,聽說你們在希爾科斯峽谷找到了那個裝置？<hex:02100103>我們聖寇伊納克財團當然也對這件事非常感興趣，<hex:02100103>不過這事對你們拂曉來說至關重要吧？所以還是交給你了。
@@ -16,12 +16,12 @@ int32,str,str
 11,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_050_006,如果我猜測得沒有錯，<hex:02100103>你就把那個魔法人偶拿給「他」看看吧。<hex:02100103>看到後他就能理解我想要表達的意思了。
 12,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_060_006,我想轉告他的話已經都託付給你了。<hex:02100103>怎麼理解我的話是他的自由，只希望他能不留下遺憾。<hex:02100103>當然，你也是。
 13,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_070_006,你今天沒帶著監督員一起來呀。<hex:02100103>那正好，最近我翻出來了一頁很有意思的報告，你也來看看吧。
-14,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_080_006,喲，我們通過諾亞的監視人員了解到了你的表現。<hex:02100103>聽說又發現了新的關於亞蒙和贊德的事實啊。<hex:02100103>下次有機會跟我們好好講講吧。
+14,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_080_006,喲，我們通過諾亞的監視人員瞭解到了你的表現。<hex:02100103>聽說又發現了新的關於亞蒙和贊德的事實啊。<hex:02100103>下次有機會跟我們好好講講吧。
 15,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_090_006,拂曉解散，而他也回到了巴爾德西昂分館，<hex:02100103>當然我們今後還是會留在這裡繼續進行研究。<hex:02100103>所以如果想查看調查記錄的話，可以隨時過來。
 16,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_100_006,你是，為了調查正統優雷卡的事情來的嗎？<hex:02100103>事情我已經從珂爾·拉布恩塔……<hex:02100103>或者說大魔法師諾亞那裡聽說了。
 17,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_110_006,老實說，第一次見到她本人的時候，讓我非常驚訝……<hex:02100103>但話又說回來了，我們諾亞調查團至今為止經歷的一切，<hex:02100103>不也是處處都充滿了震驚和訝異嗎？
 18,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_120_006,正因如此，我現在唯一能做的就是相信大家，貢獻自己的力量。<hex:02100103>我作為聖寇伊納克財團的一員，<hex:02100103>也同樣希望這裡能夠找到更多關於亞拉戈的新發現。
-19,TEXT_REGLAKSAINTCOINACHSFIND_00113_Q1_000_000,想了解什麼？
+19,TEXT_REGLAKSAINTCOINACHSFIND_00113_Q1_000_000,想瞭解什麼？
 20,TEXT_REGLAKSAINTCOINACHSFIND_00113_A1_000_001,你是做什麼的？
 21,TEXT_REGLAKSAINTCOINACHSFIND_00113_A1_000_002,這裡是什麼地方？
 22,TEXT_REGLAKSAINTCOINACHSFIND_00113_A1_100_001,諾亞報告«八劍士前庭»
@@ -89,7 +89,7 @@ int32,str,str
 84,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_089,(-諾亞報告-)正因為他跨越了死亡，所以才被生命所束縛。<hex:02100103>雖然我們很難得知贊德的內心，<hex:02100103>但是他的選擇則成為歷史被印刻下來。
 85,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_090,(-諾亞報告-)對「黑暗之力」的渴望……引發了第四靈災……<hex:02100103>期望帝國繁榮而甦醒的始皇帝，<hex:02100103>親手將亞拉戈帝國引向滅亡。
 86,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_100,好，那我就給你讀一下«暗之世界»的相關調查記錄吧。
-87,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_101,(-諾亞報告-)為了解救被抓走的同胞、解除世界的危機，<hex:02100103>諾亞調查團將冒險者部隊送進了暗之世界。
+87,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_101,(-諾亞報告-)為瞭解救被抓走的同胞、解除世界的危機，<hex:02100103>諾亞調查團將冒險者部隊送進了暗之世界。
 88,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_102,(-諾亞報告-)暗之世界是異界「虛無界」的舊稱。<hex:02100103>據推測，那裡是臨近我們物質界的另一個世界。
 89,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_103,(-諾亞報告-)原本，兩個世界是絕對不會產生交集的。<hex:02100103>但分隔世界的境界因一些原因變得薄弱時，<hex:02100103>連通兩界的裂痕就會產生。
 90,TEXT_REGLAKSAINTCOINACHSFIND_00113_RAMMBROES_000_104,(-諾亞報告-)不光是古代亞拉戈文明，<hex:02100103>歷史上有很多魔法師都人為打開了境界的裂痕「虛無界之門」，<hex:02100103>以此來利用異界妖異們的力量。

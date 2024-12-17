@@ -4,7 +4,7 @@ offset,0,4
 int32,str,str
 0,TEXT_REGWILINN_00061_OTOPAPOTTOPA_000,這裡是沙鐘旅亭。<hex:02100103>……不過，我們不向初出茅廬的冒險者開放。
 1,TEXT_REGWILINN_00061_OTOPAPOTTOPA_001,如果您能在烏爾達哈取得出色表現，獲得周圍人的信賴，<hex:02100103>那麼莫莫蒂大人或許就會允許您使用客房。<hex:02100103>所以您還是先努力工作吧。
-2,TEXT_REGWILINN_00061_Q1_000_1,想了解什麼？
+2,TEXT_REGWILINN_00061_Q1_000_1,想瞭解什麼？
 3,TEXT_REGWILINN_00061_A1_000_1,什麼是「沙鐘旅亭」？
 4,TEXT_REGWILINN_00061_A1_000_2,取消
 5,TEXT_REGWILINN_00061_OTOPAPOTTOPA_010,沙鐘旅亭是烏爾達哈最有名的住宿設施。

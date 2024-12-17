@@ -5,7 +5,7 @@ int32,str,str
 0,TEXT_CTSDDD1REWARD_00823_EUNAKOTOR_000_001,我的名字是艾·烏納·科特羅……如你所見我是個「角尊」。<hex:02100103>最近黑衣森林不是很太平，我過來也是為了幫忙解決問題。<hex:02100103>你也請多加小心。
 1,TEXT_CTSDDD1REWARD_00823_EUNAKOTOR_000_010,我的名字是艾·烏納·科特羅……如你所見我是個「角尊」。<hex:02100103>我正駐留在這裡協助死者宮殿的調查活動。
 2,TEXT_CTSDDD1REWARD_00823_EUNAKOTOR_000_020,我稍後也會前往空居，<hex:02100103>希望你能先過去。<hex:02100103>如果我的推測沒錯，這件事還需要藉助你的力量……
-3,TEXT_CTSDDD1REWARD_00823_EUNAKOTOR_000_030,雖說我們已經擊敗幕後黑手，阻止了形勢繼續惡化，<hex:02100103>但並不意味著我們已經了解死者宮殿的一切……<hex:02100103>十分感謝你一直以來的幫助。
+3,TEXT_CTSDDD1REWARD_00823_EUNAKOTOR_000_030,雖說我們已經擊敗幕後黑手，阻止了形勢繼續惡化，<hex:02100103>但並不意味著我們已經瞭解死者宮殿的一切……<hex:02100103>十分感謝你一直以來的幫助。
 4,TEXT_CTSDDD1REWARD_00823_TEST_START_MENU_TITLE,要做什麼？
 5,TEXT_CTSDDD1REWARD_00823_TEST_START_SHOP,道具交換
 6,TEXT_CTSDDD1REWARD_00823_TEST_START_SHOP2,將聚魔裝備帶出迷宮
@@ -20,12 +20,12 @@ int32,str,str
 15,TEXT_CTSDDD1REWARD_00823_SYSTEM_110_021,想要製作<hex:02280BFF05>Item<hex:F25A7D0103>，<hex:02100103>必須先突破死者宮殿的地下50層。
 16,TEXT_CTSDDD1REWARD_00823_EUNAKOTOR_120_020,你想將聚魔裝備上的乙太結晶化？<hex:02100103>不過現在它上面的乙太還太弱小，<hex:02100103>你需要繼續用魔力強化它才行。
 17,TEXT_CTSDDD1REWARD_00823_SYSTEM_120_021,想要製作<hex:02280BFF05>Item<hex:F25A7D0103>，<hex:02100103>需要「聚魔裝備（武器·盾）」<hex:02100103>和「聚魔裝備（防具）」的強化值都在10以上。
-18,TEXT_CTSDDD1REWARD_00823_TEST_ABOUT_MENU_TITLE,想了解什麼？
+18,TEXT_CTSDDD1REWARD_00823_TEST_ABOUT_MENU_TITLE,想瞭解什麼？
 19,TEXT_CTSDDD1REWARD_00823_TEST_START_ABOUT_TOKEN,關於道具交換
 20,TEXT_CTSDDD1REWARD_00823_TEST_START_ABOUT,關於將聚魔裝備帶出迷宮
 21,TEXT_CTSDDD1REWARD_00823_TEST_START_YOURSELF,你在這裡是做什麼的？
 22,TEXT_CTSDDD1REWARD_00823_TEST_ABOUT_BACK,返回
-23,TEXT_CTSDDD1REWARD_00823_EUNAKOTOR_000_180,迷宮中發現了一些格爾莫拉時代的陶器碎片，<hex:02100103>上面還殘留著古代妖術的魔力。<hex:02100103>我認為調查它們能夠對了解迷宮的狀態提供幫助。
+23,TEXT_CTSDDD1REWARD_00823_EUNAKOTOR_000_180,迷宮中發現了一些格爾莫拉時代的陶器碎片，<hex:02100103>上面還殘留著古代妖術的魔力。<hex:02100103>我認為調查它們能夠對瞭解迷宮的狀態提供幫助。
 24,TEXT_CTSDDD1REWARD_00823_EUNAKOTOR_000_181,如果你在迷宮中發現了格爾莫拉陶器碎片，<hex:02100103>或是其他一些殘留著強大魔力的物品。<hex:02100103>不妨將它們拿到我這裡來，我會用相應的獎勵回報你。
 25,TEXT_CTSDDD1REWARD_00823_EUNAKOTOR_000_200,你想將我做的聚魔裝備拿到迷宮外面來使用？<hex:02100103>但這個聚魔裝備是專門為了對抗迷宮內結界的力量而設計的，<hex:02100103>想這樣直接拿出來用恐怕有些困難……
 26,TEXT_CTSDDD1REWARD_00823_EUNAKOTOR_000_201,如果你能通過某些方法為它提供魔力加以強化，<hex:02100103>那我可以將其中的一部分乙太抽取出來化為結晶。<hex:02100103>使用這種結晶，就能讓你將聚魔裝備帶出迷宮了。

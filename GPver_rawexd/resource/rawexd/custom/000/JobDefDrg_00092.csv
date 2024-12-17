@@ -3,7 +3,7 @@
 offset,0,4
 int32,str,str
 0,TEXT_JOBDEFDRG_00092_ALBERIC_000_1,我的舊傷今天也在隱隱作痛……<hex:02100103>就是那些在當龍騎士的時候受的傷……
-1,TEXT_JOBDEFDRG_00092_Q1_000_1,想了解什麼？
+1,TEXT_JOBDEFDRG_00092_Q1_000_1,想瞭解什麼？
 2,TEXT_JOBDEFDRG_00092_A1_000_1,你是做什麼的？
 3,TEXT_JOBDEFDRG_00092_A1_000_2,什麼是「龍騎士」？
 4,TEXT_JOBDEFDRG_00092_A1_000_3,取消
@@ -21,7 +21,7 @@ int32,str,str
 16,TEXT_JOBDEFDRG_00092_ALBERIC_000_340,你最近怎麼樣？<hex:02100103>尋找千年前失蹤的龍可不是件容易事，<hex:02100103>慢慢來，小心別拚命過頭了。
 17,TEXT_JOBDEFDRG_00092_ALBERIC_000_341,你最近怎麼樣？<hex:02100103>在東方的冒險故事我已經從小龍那聽說了。<hex:02100103>沒想到你們居然遇到了埃斯蒂尼安那小子。
 18,TEXT_JOBDEFDRG_00092_ALBERIC_000_350,你最近怎麼樣？<hex:02100103>基姆利特暗區戰場上發生的事我已經聽說了。<hex:02100103>看來埃斯蒂尼安那小子還是一如既往在到處亂跑啊。
-19,TEXT_JOBDEFDRG_00092_Q2_000_1,想了解什麼？
+19,TEXT_JOBDEFDRG_00092_Q2_000_1,想瞭解什麼？
 20,TEXT_JOBDEFDRG_00092_A2_000_1,最近怎麼樣？
 21,TEXT_JOBDEFDRG_00092_A2_000_2,什麼是「龍騎士」？
 22,TEXT_JOBDEFDRG_00092_A2_100_2,關於伊爾薩巴德救援隊

@@ -4,7 +4,7 @@ offset,0,4
 int32,str,str
 0,TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_000,……我不是艾歐澤亞同盟軍的人。<hex:02100103>不過我可是得到了許可才來到這裡的。
 1,TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_001,……哦，你也是兵團的人嗎？<hex:02100103>我在追蹤這一帶的惡名菁英。<hex:02100103>你要是需要情報，我倒是可以提供給你……
-2,TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_Q1_000_000,想了解什麼？
+2,TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_Q1_000_000,想瞭解什麼？
 3,TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_A1_000_001,關於B級怪物：19號實驗體——影中暗雅彌尼
 4,TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_A1_000_002,關於B級怪物：殘忍誘拐犯——奧祖魯姆
 5,TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_A1_000_003,關於A級怪物：鐵鏽獵人——奧迦斯
@@ -20,7 +20,7 @@ int32,str,str
 15,TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_030,蟻獅的天敵多是猛禽類，因此它們一般是潛伏在地下進行狩獵的。<hex:02100103>但是奧迦斯不一樣。<hex:02100103>它會來到地面上，為尋找獵物四處遊蕩。
 16,TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_031,這也不是沒有道理的……<hex:02100103>因為那傢伙的體內能夠分泌出強力的體液，甚至可以融化鋼鐵，<hex:02100103>而且噴射力也特別發達。
 17,TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_032,傳言說奧迦斯是在賢者樹周圍狩獵後開始變成這樣的。<hex:02100103>那裡是否出現了某種令它突變的契機？
-18,TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_040,你想要了解一下被稱為「女王蜂」的巨型蜂的事啊？<hex:02100103>那傢伙的特徵就是擁有強力的毒針，甚至能夠瞬間毒死一頭熊。<hex:02100103>另外它扇動翅膀時捲起的衝擊波如同颶風一般強勁。
+18,TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_040,你想要瞭解一下被稱為「女王蜂」的巨型蜂的事啊？<hex:02100103>那傢伙的特徵就是擁有強力的毒針，甚至能夠瞬間毒死一頭熊。<hex:02100103>另外它扇動翅膀時捲起的衝擊波如同颶風一般強勁。
 19,TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_041,這也是從阿難陀族那裡聽說的。<hex:02100103>曾經梅氏的努恩為了保護族人，曾和那傢伙戰鬥過。<hex:02100103>當時的努恩儘管身中劇毒，但依然以生命為代價將它封印在了洞窟中。
 20,TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_042,但是，不知道是不是因為受呵欠洞形成時的衝擊影響，<hex:02100103>導致那個洞窟坍塌了。<hex:02100103>最近那隻本應被封印的巨蜂再次現身了。
 21,TEXT_CTSHNT40CASTRUMORIENS_00425_YAYANEJA_000_050,優曇婆羅花是一個神出鬼沒的巨大食人植物。<hex:02100103>平時它都是潛伏在地底，等待獵物靠近的，<hex:02100103>所以並不容易發現。

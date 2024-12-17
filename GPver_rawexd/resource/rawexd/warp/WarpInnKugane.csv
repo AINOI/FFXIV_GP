@@ -4,7 +4,7 @@ offset,0,4
 int32,str,str
 0,TEXT_WARPINNKUGANE_USHITORA_000_1,歡迎光臨。<hex:02100103>這裡是「望海樓」。
 1,TEXT_WARPINNKUGANE_USHITORA_000_2,不過很抱歉……<hex:02100103>目前館內還在進行打掃，<hex:02100103>請過段時間再來吧。
-2,TEXT_WARPINNKUGANE_Q1_000_1,想了解什麼？
+2,TEXT_WARPINNKUGANE_Q1_000_1,想瞭解什麼？
 3,TEXT_WARPINNKUGANE_A1_000_1,什麼是「望海樓」？
 4,TEXT_WARPINNKUGANE_A1_000_2,取消
 5,TEXT_WARPINNKUGANE_USHITORA_000_3,我們望海樓是一家溫泉旅館，<hex:02100103>來訪這座港口城市——黃金港的旅客們，<hex:02100103>可以在這裡盡情地泡溫泉，這也是我們這裡的特色。

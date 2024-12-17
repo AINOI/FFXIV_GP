@@ -7,7 +7,7 @@ int32,str,str
 2,TEXT_HEAVNZ814_01944_SEQ_02,討伐了<hex:02280FFF09>BNpcName<hex:F20E120103>，但它身上沒有<hex:022811FF0A>EventItem<hex:F61E8B6A0103>。繼續討伐<hex:02280FFF09>BNpcName<hex:F20E120103>，奪回<hex:022811FF0A>EventItem<hex:F61E8B6A0103>。
 3,TEXT_HEAVNZ814_01944_SEQ_03,從青藍之手那裡奪回了<hex:022811FF0A>EventItem<hex:F61E8B6A0103>。將<hex:022811FF0A>EventItem<hex:F61E8B6A0103>交給薩雷安精製區的德利普威克斯。
 4,TEXT_HEAVNZ814_01944_SEQ_04,將<hex:022811FF0A>EventItem<hex:F61E8B6A0103>交給了德利普威克斯。他回到田園郡去找斯洛菲克斯。和田園郡的德利普威克斯談談。
-5,TEXT_HEAVNZ814_01944_SEQ_05,為了解決接連不斷的問題，最後決定由德利普威克斯定下規矩。德利普威克斯希望冒險者也能幫忙，不知冒險者是否能幫上他的忙？
+5,TEXT_HEAVNZ814_01944_SEQ_05,為瞭解決接連不斷的問題，最後決定由德利普威克斯定下規矩。德利普威克斯希望冒險者也能幫忙，不知冒險者是否能幫上他的忙？
 6,TEXT_HEAVNZ814_01944_SEQ_06,
 7,TEXT_HEAVNZ814_01944_SEQ_07,
 8,TEXT_HEAVNZ814_01944_SEQ_08,
