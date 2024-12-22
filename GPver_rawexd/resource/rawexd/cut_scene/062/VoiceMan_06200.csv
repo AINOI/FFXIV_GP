@@ -52,7 +52,7 @@ int32,str,str
 47,TEXT_VOICEMAN_06200_000480_ESTINIEN,你們都看到了，你們的主人已經死了！<hex:02100103>吞噬她乙太的傢伙也被我們消滅了！<hex:02100103>還要繼續打嗎？
 48,TEXT_VOICEMAN_06200_000490_YSHTOLA,它們好像聽不懂我們說的話，<hex:02100103>可能妖異的智力也存在著個體差異。
 49,TEXT_VOICEMAN_06200_000500_ESTINIEN,那不就和野獸一樣。<hex:02100103>不過也好，野獸會向強者屈服，<hex:02100103>我們只需要繼續展示力量就行了。
-50,TEXT_VOICEMAN_06200_000510_VARSHAHNBIG,看來在這個世界旅行，<hex:02100103>我們還要加深對妖異習性的瞭解。
+50,TEXT_VOICEMAN_06200_000510_VARSHAHNBIG,看來在這個世界旅行，<hex:02100103>我們還要加深對妖異習性的了解。
 51,TEXT_VOICEMAN_06200_Q1_000_001_NONE_VOICE,要說什麼？
 52,TEXT_VOICEMAN_06200_A1_000_001_NONE_VOICE,一邊謹慎調查一邊前進吧
 53,TEXT_VOICEMAN_06200_A1_000_002_NONE_VOICE,剛一出來就把它們打個落花流水，乾脆就這樣大膽前進吧！
@@ -79,7 +79,7 @@ int32,str,str
 74,TEXT_VOICEMAN_06200_000690_MYSTERIOUSPERSON,(-黑衣妖異-)我……曾被那個叫芝諾斯的人所操控。
 75,TEXT_VOICEMAN_06200_000700_MYSTERIOUSPERSON,(-黑衣妖異-)直到他敗給了你。
 76,TEXT_VOICEMAN_06200_000710_YSHTOLA,芝諾斯所使用的是釤鐮客的技巧，<hex:02100103>他們能夠操控妖異……
-77,TEXT_VOICEMAN_06200_000720_YSHTOLA,你應該很瞭解芝諾斯那手操控「化身」的本事了……
+77,TEXT_VOICEMAN_06200_000720_YSHTOLA,你應該很了解芝諾斯那手操控「化身」的本事了……
 78,TEXT_VOICEMAN_06200_000730_YSHTOLA,那是加雷馬族自古流傳下來的暗殺術，<hex:02100103>他為了和你戰鬥，特地去掌握了那種新的力量。
 79,TEXT_VOICEMAN_06200_000740_YSHTOLA,據說，釤鐮客會以水晶為媒介連接到虛無界，<hex:02100103>找到合適的妖異化身並結下契約，<hex:02100103>之後就能使用那些妖異的力量……
 80,TEXT_VOICEMAN_06200_000750_MYSTERIOUSPERSON,(-黑衣妖異-)契約？<hex:02100103>那傢伙用的可不是那種對等的手段，<hex:02100103>而是強行將我的力量抽取出來。
@@ -414,7 +414,7 @@ int32,str,str
 409,TEXT_VOICEMAN_06200_003900_VARSHAHN,怎麼樣，在城裡走了一圈，有什麼感想嗎？
 410,TEXT_VOICEMAN_06200_003910_MYSTERIOUSPERSON,人類很多。
 411,TEXT_VOICEMAN_06200_003920_VARSHAHN,確實，對於你來說，<hex:02100103>這可能是最令人驚訝的地方了。
-412,TEXT_VOICEMAN_06200_003930_VARSHAHN,這座城市裡還有人以接待和引導旅客為業，<hex:02100103>如果你還有想深入瞭解的，我可以為你安排。
+412,TEXT_VOICEMAN_06200_003930_VARSHAHN,這座城市裡還有人以接待和引導旅客為業，<hex:02100103>如果你還有想深入了解的，我可以為你安排。
 413,TEXT_VOICEMAN_06200_003940_MYSTERIOUSPERSON,不用了，之後我隨便逛逛就行。<hex:02100103>不過……雖然你給我講了那麼多的事，<hex:02100103>關於我的故鄉，我卻沒太多能說的。
 414,TEXT_VOICEMAN_06200_003950_MYSTERIOUSPERSON,我還記得一些講述歷史的詩歌，<hex:02100103>但我並不清楚那些是不是歷史的真相。
 415,TEXT_VOICEMAN_06200_003960_MYSTERIOUSPERSON,如果你們覺得這樣的內容也沒關係，<hex:02100103>那我就講講憶晶戰爭吧。<hex:02100103>可以說正是那場戰爭導致世界被黑暗所吞沒。

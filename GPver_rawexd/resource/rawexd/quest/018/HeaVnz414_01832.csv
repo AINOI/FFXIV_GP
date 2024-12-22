@@ -3,7 +3,7 @@
 offset,0,4
 int32,str,str
 0,TEXT_HEAVNZ414_01832_SEQ_00,人王遺跡的莫古雷歐又發現了有困難的同胞。
-1,TEXT_HEAVNZ414_01832_SEQ_01,莫古雷歐想要向有困難的同胞瞭解情況。一起和翻雲霧海人王遺跡的護衛團莫古利談談。
+1,TEXT_HEAVNZ414_01832_SEQ_01,莫古雷歐想要向有困難的同胞了解情況。一起和翻雲霧海人王遺跡的護衛團莫古利談談。
 2,TEXT_HEAVNZ414_01832_SEQ_02,護衛團莫古利想要<hex:022811FF0A>EventItem<hex:F61E8B740103>。和人王遺跡的莫古雷歐談談，制定作戰計劃。
 3,TEXT_HEAVNZ414_01832_SEQ_03,莫古雷歐委託冒險者找來<hex:022811FF0A>EventItem<hex:F61E8B740103>。向莫古利之家南邊的莫古西亞要<hex:022811FF0A>EventItem<hex:F61E8B740103>。
 4,TEXT_HEAVNZ414_01832_SEQ_04,從莫古西亞處獲得了<hex:022811FF0A>EventItem<hex:F61E8B740103>。將<hex:022811FF0A>EventItem<hex:F61E8B740103>交給人王遺跡的護衛團莫古利。如果護衛團莫古利不在原地了，就先想辦法把他找到。

@@ -2,8 +2,8 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_REGFSTWDKGUILD_00029_BEATINE_000_1,如果你有時間的話……<hex:02100103>就來瞭解下刻木吧？
-1,TEXT_REGFSTWDKGUILD_00029_Q1_000_1,想瞭解什麼？
+0,TEXT_REGFSTWDKGUILD_00029_BEATINE_000_1,如果你有時間的話……<hex:02100103>就來了解下刻木吧？
+1,TEXT_REGFSTWDKGUILD_00029_Q1_000_1,想了解什麼？
 2,TEXT_REGFSTWDKGUILD_00029_A1_000_1,你是做什麼的？
 3,TEXT_REGFSTWDKGUILD_00029_A1_000_2,什麼是「刻木」？
 4,TEXT_REGFSTWDKGUILD_00029_A1_000_3,取消
@@ -15,7 +15,7 @@ int32,str,str
 10,TEXT_REGFSTWDKGUILD_00029_BEATINE_000_6,通過對手中木材的年輪與屬性進行解讀，<hex:02100103>從而發揮它們的價值，賦予它們新的使命，<hex:02100103>這就是我們刻木匠的工作……
 11,TEXT_REGFSTWDKGUILD_00029_BEATINE_000_10,刻木是……愛樹木、愛木材……<hex:02100103>用那愛……不對……用樹木製作出製品的工作。
 12,TEXT_REGFSTWDKGUILD_00029_BEATINE_000_11,你們冒險者所熟悉的長槍、弓等武器，<hex:02100103>還有適合新手使用的木盾，<hex:02100103>這些都是通過刻木製作出來的……
-13,TEXT_REGFSTWDKGUILD_00029_BEATINE_000_12,如果想成為一名優秀的刻木匠……<hex:02100103>就必須知曉樹木的特點……瞭解材料的用途……<hex:02100103>掌握合適的加工方法。
+13,TEXT_REGFSTWDKGUILD_00029_BEATINE_000_12,如果想成為一名優秀的刻木匠……<hex:02100103>就必須知曉樹木的特點……了解材料的用途……<hex:02100103>掌握合適的加工方法。
 14,TEXT_REGFSTWDKGUILD_00029_BEATINE_000_13,多虧了格里達尼亞有園藝工公會，<hex:02100103>這裡的刻木匠們才有幸在這綠蔭環繞之下學習刻木。
 15,TEXT_REGFSTWDKGUILD_00029_BEATINE_000_14,讓每棵樹木都能「物盡其用」，<hex:02100103>使它們變為刻木製品，讓其發揮作用……<hex:02100103>這就是我們刻木匠所肩負的使命，也是我們的自豪……
 16,TEXT_REGFSTWDKGUILD_00029_BEATINE_000_20,（未使用/預計刪除）
@@ -28,7 +28,7 @@ int32,str,str
 23,TEXT_REGFSTWDKGUILD_00029_BEATINE_000_081,奇彌是刻木匠公會備受矚目的新星……<hex:02100103>為師期待她能像一棵杉樹那樣，<hex:02100103>在你身邊茁壯成長。
 24,TEXT_REGFSTWDKGUILD_00029_BEATINE_000_082,通過這次的事，讓為師清楚地認識到了教書育人有多麼艱難，<hex:02100103>完全不像培育樹木那樣輕鬆啊……
 25,TEXT_REGFSTWDKGUILD_00029_BEATINE_000_083,蓋伊爾哈德很感謝你們倆哦……<hex:02100103>你們通過樹木讓人與人冰釋前嫌相互理解，<hex:02100103>相信這次的經驗也會讓那孩子在工匠方面有所成長吧。
-26,TEXT_REGFSTWDKGUILD_00029_Q2_000_001,想瞭解什麼？
+26,TEXT_REGFSTWDKGUILD_00029_Q2_000_001,想了解什麼？
 27,TEXT_REGFSTWDKGUILD_00029_A2_000_001,最近怎麼樣？
 28,TEXT_REGFSTWDKGUILD_00029_A2_000_002,什麼是「刻木」？
 29,TEXT_REGFSTWDKGUILD_00029_A2_000_003,取消
@@ -48,6 +48,6 @@ int32,str,str
 43,TEXT_REGFSTWDKGUILD_00029_BEATINE_000_143,就是這樣……她距離獨當一面還有很長的路要走……<hex:02100103>她現在已經回到了格里達尼亞，<hex:02100103>看來距離挨罰的日子不遠了……呵呵……
 44,TEXT_REGFSTWDKGUILD_00029_BEATINE_000_110,<hex:022903EB0203>，你應該已經知道了……<hex:02100103>刻木就是要去愛樹木，愛木材……<hex:02100103>用那愛……不對……用樹木製作出製品的工作。
 45,TEXT_REGFSTWDKGUILD_00029_BEATINE_000_111,你們冒險者所熟悉的長槍、弓等武器，<hex:02100103>還有適合新手使用的木盾，<hex:02100103>這些都是通過刻木製作出來的……
-46,TEXT_REGFSTWDKGUILD_00029_BEATINE_000_112,如果想成為一名優秀的刻木匠……<hex:02100103>就必須知曉樹木的特點……瞭解材料的用途……<hex:02100103>掌握合適的加工方法。
+46,TEXT_REGFSTWDKGUILD_00029_BEATINE_000_112,如果想成為一名優秀的刻木匠……<hex:02100103>就必須知曉樹木的特點……了解材料的用途……<hex:02100103>掌握合適的加工方法。
 47,TEXT_REGFSTWDKGUILD_00029_BEATINE_000_113,多虧了格里達尼亞有園藝工公會，<hex:02100103>這裡的刻木匠們才有幸在這綠蔭環繞之下學習刻木。
 48,TEXT_REGFSTWDKGUILD_00029_BEATINE_000_114,讓每棵樹木都能「物盡其用」，<hex:02100103>使它們變為刻木製品，讓其發揮作用……<hex:02100103>這就是我們刻木匠所肩負的使命，也是我們的自豪……
